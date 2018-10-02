@@ -55,22 +55,11 @@ ToDO
 
 ### 3.2 CentOs
 
-```
 ToDo
-```
 
 ```
-
-* Install Kubernetes Dashboard
-
-```
-ToDo
-```
-
-```
-ToDo
-```
-
-* ToDo:
+  * Install Kubernetes Dashboard
   * Add Sample Dockerfile and docker-compose file and explanation
   * Add kubernetes sample file and explanation
+
+```
